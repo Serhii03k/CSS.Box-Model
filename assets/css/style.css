@@ -1,0 +1,120 @@
+body {
+    box-sizing: content-box;
+    margin: 0;
+}
+
+.addHeader {
+
+background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBNz41YXf9-QwsWcW3mpz37XDdFg9Gfpa93KxiJRW_WKqHbcjSTjZGNDuK0ByTqIHL91d57Q3ZwEiGDuZwSf1hqXF7BBgUdG9RyxdWpy-QD-_A=w1920-h911?auditContext=forDisplay");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom;
+display: block;
+height: 600px;
+text-align: center;
+color: #926239;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif; 
+padding-top: 100px;
+
+
+
+
+}
+
+h1 {
+    font-size: 32px;
+    margin-top: 0;
+}
+p {
+    font-size: 18px;
+    
+    
+}
+a{
+    text-decoration: none;
+    border: 1px solid #926239;
+    padding: 10px;
+    border: 1px solid #926239;
+    border-radius: 5px;
+    color: #926239;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    margin-top 20px; 
+}
+a:hover{
+    background-color: #926239;
+    color: white;
+}
+.block1 {
+    background-color: #926239;
+    height: 150px;
+    
+    
+    p 
+    {font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    font-weight: 100;
+    color: white;
+    line-height: 1.5;
+    padding: 15px;
+    margin: 0 }
+}
+
+.block2 {
+    background-color: white;
+    padding: 15px;
+    height: 125px;
+
+    p  {
+     font-size: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+     font-weight: 500;
+     color:#926239;
+     line-height: 1.5;
+     margin: 0;}
+}
+
+.footerBlocks {
+    p {
+        display: inline-block;
+        
+        width: 33%;
+        height: 70px;
+        text-align: center;
+        margin-top: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+        vertical-align: top;
+        padding: 15px 3px 15px 3px;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+    }
+}
+.block3 {
+    background-color: #926239;
+    color: white;
+    
+
+}
+.block4 {
+    background-color: white;
+    color: #926239;
+    
+
+}
+.block5 {
+    background-color: #926239;
+    color: white;
+   
+
+}
+    
+
+
+
+    
+
